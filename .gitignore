@@ -1,0 +1,4 @@
+# keys and config files
+*.key
+*.pem
+*.conf
